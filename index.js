@@ -1566,8 +1566,8 @@
         HEIGHT_DUCK: 25,
         INIITAL_JUMP_VELOCITY: -10,
         INTRO_DURATION: 1500,
-        MAX_JUMP_HEIGHT: 3000,  // 30
-        MIN_JUMP_HEIGHT: 3000,  // 30
+        MAX_JUMP_HEIGHT: 300,  // 30
+        MIN_JUMP_HEIGHT: 300,  // 30
         SPEED_DROP_COEFFICIENT: 3,
         SPRITE_WIDTH: 262,
         START_X_POS: 50,
