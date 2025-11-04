@@ -1560,14 +1560,14 @@
      * @enum {number}
      */
     Trex.config = {
-        DROP_VELOCITY: -5,
-        GRAVITY: 0.6, // 0.6
+        DROP_VELOCITY: -25,
+        GRAVITY: 0.2, // 0.6
         HEIGHT: 47,
         HEIGHT_DUCK: 25,
         INIITAL_JUMP_VELOCITY: -10,
         INTRO_DURATION: 1500,
-        MAX_JUMP_HEIGHT: 10,  // 30
-        MIN_JUMP_HEIGHT: 10,  // 30
+        MAX_JUMP_HEIGHT: 100,  // 30
+        MIN_JUMP_HEIGHT: 100,  // 30
         SPEED_DROP_COEFFICIENT: 3,
         SPRITE_WIDTH: 262,
         START_X_POS: 50,
