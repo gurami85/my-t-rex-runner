@@ -1561,13 +1561,13 @@
      */
     Trex.config = {
         DROP_VELOCITY: -25,
-        GRAVITY: 0.2, // 0.6
+        GRAVITY: 0.1, // 0.6
         HEIGHT: 47,
         HEIGHT_DUCK: 25,
         INIITAL_JUMP_VELOCITY: -10,
         INTRO_DURATION: 1500,
-        MAX_JUMP_HEIGHT: 100,  // 30
-        MIN_JUMP_HEIGHT: 100,  // 30
+        MAX_JUMP_HEIGHT: 200,  // 30
+        MIN_JUMP_HEIGHT: 200,  // 30
         SPEED_DROP_COEFFICIENT: 3,
         SPRITE_WIDTH: 262,
         START_X_POS: 50,
